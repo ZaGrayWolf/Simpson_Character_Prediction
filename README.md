@@ -1,5 +1,3 @@
-#Simpson_Character_Prediction
-
 ```markdown
 # Neural Network for Character Classification
 
