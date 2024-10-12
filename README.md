@@ -85,4 +85,10 @@ The model is trained on a dataset of images representing different characters an
 
 Feel free to customize and extend this repository based on your specific needs!
 ```
+Make sure to update the GitHub URL under the "Installation" section with the actual repository URL when you upload it!
+
+
+
+
+
 
